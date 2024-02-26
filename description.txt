@@ -1,0 +1,6 @@
+img resource:
+1. library picture: Photo by <a href="https://unsplash.com/@itfeelslikefilm?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">🇸🇮 Janko Ferlič</a> on <a href="https://unsplash.com/photos/photo-of-library-with-turned-on-lights-sfL_QOnmy00?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+2. logo: Photo by <a href="https://unsplash.com/@chrislawton?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Chris Lawton</a> on <a href="https://unsplash.com/photos/shallow-focus-photography-of-stack-of-books-zvKx6ixUhWQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+3. book cover: Photo by <a href="https://unsplash.com/@surjasendas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Surja Sen Das Raj</a> on <a href="https://unsplash.com/photos/a-copy-of-the-book-company-of-one-by-paul-jarviss-ViMrMawjj7s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+using book.html replace catalog.html, since catalog.html is not finished
